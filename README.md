@@ -4,5 +4,5 @@ Hello World Portlet Projects
 - Hello World JSR 286 Portlet
 - Hello World Spring JSR 286 Portlet
 - JSF JSR 286 Portlet
-![Portal](https://drive.google.com/file/d/19O52Eaxl6cuZUcECQIudmZjgwrIbtD-U/view)
+## What is Portal?
 ![Portal](https://drive.google.com/uc?export=view&id=19O52Eaxl6cuZUcECQIudmZjgwrIbtD-U)
